@@ -7,6 +7,7 @@ import VMS from "../../Assets/Projects/VMS.jpg"
 import Banking from "../../Assets/Projects/Banking.jpg"
 import Plant_AI from "../../Assets/Projects/plant_ai.jpg"
 import Telimedi_connect from "../../Assets/Projects/Telimedi_connect.png"
+import Portfolio from "../../Assets/Projects/Portfolio.png"
 
 
 
@@ -56,6 +57,18 @@ function Projects() {
             />
           </Col>
 
+          
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={Portfolio}
+              isBlog={false}
+              title="Portfolio Website"
+              description="A personal portfolio website built with React.js to showcase projects, skills, and experiences. Features include a clean responsive design, project gallery, about me section, and smooth navigation to highlight professional achievements and technical expertise."
+              ghLink="https://github.com/soumyajit4419/Plant_AI"
+              demoLink="https://plant49-ai.herokuapp.com/"
+            />
+          </Col>
+
 
           <Col md={4} className="project-card">
             <ProjectCard
@@ -76,17 +89,6 @@ function Projects() {
               description="A smart system to manage and track visitors in real-time, built with React.js, Material-UI, Node.js, Express, and MongoDB. Features include visitor registration, check-in/check-out logging, admin dashboard, and secure data storage to ensure smooth and organized visitor handling."
               ghLink="https://github.com/RDL-FULLSTACK/VMS"
               demoLink="https://blogs.soumya-jit.tech/"
-            />
-          </Col>
-
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={PMS}
-              isBlog={false}
-              title="Plant AI"
-              description="A plant disease detection system built with Python, TensorFlow, and image processing libraries. Utilizes AI to identify plant diseases, helping farmers improve crop yield and reduce pesticide use by accurately diagnosing plant health from images."
-              ghLink="https://github.com/soumyajit4419/Plant_AI"
-              demoLink="https://plant49-ai.herokuapp.com/"
             />
           </Col>
 
