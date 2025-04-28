@@ -12,8 +12,8 @@ function AboutCard() {
             from <span className="purple"> Managalore, India.</span>
             <br />
             I am currently Working at RDL technology as a Full Stack Developer Intern.
-            <br />
-            I have recently graduated from Sahyadri College of Engineering
+            {/* <br />
+            I have recently graduated from Sahyadri College of Engineering */}
             <br />
             <br />
             Apart from coding, some other activities that I love to do!

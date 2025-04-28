@@ -30,8 +30,8 @@ function Projects() {
               isBlog={false}
               title="Telimedi-Connect"
               description="A healthcare platform for booking regular or emergency doctor appointments, built with React.js, Material-UI, Node.js, Express, and MongoDB. Offers features like patient registration, appointment scheduling, doctor listings, and secure health data management to enhance modern healthcare delivery."
-              ghLink="https://github.com/soumyajit4419/Editor.io"
-              demoLink="https://editor.soumya-jit.tech/"              
+              ghLink="https://yogeshpatgar44.github.io/Deployment/"
+              demoLink="https://yogeshpatgar44.github.io/Deployment/"              
             />
           </Col>
 
@@ -41,8 +41,8 @@ function Projects() {
               isBlog={false}
               title="Plant AI"
               description="A plant disease detection system built with Python, TensorFlow, and image processing libraries. Utilizes AI to identify plant diseases, helping farmers improve crop yield and reduce pesticide use by accurately diagnosing plant health from images."
-              ghLink="https://github.com/soumyajit4419/Plant_AI"
-              demoLink="https://plant49-ai.herokuapp.com/"
+              ghLink="https://yogeshpatgar44.github.io/Deployment/"
+              demoLink="https://yogeshpatgar44.github.io/Deployment/"
             />
           </Col>
 
@@ -52,8 +52,8 @@ function Projects() {
               isBlog={false}
               title="Net-Banking Management System"
               description="Secure and user-friendly digital banking solution built with HTML, CSS, PHP, and MySQL. Provides core banking features such as account management, fund transfers, and transaction history, offering users a seamless and efficient online banking experience."
-              ghLink="https://github.com/soumyajit4419/Editor.io"
-              demoLink="https://editor.soumya-jit.tech/"              
+              ghLink="https://yogeshpatgar44.github.io/Deployment/"
+              demoLink="https://yogeshpatgar44.github.io/Deployment/"              
             />
           </Col>
 
@@ -64,8 +64,8 @@ function Projects() {
               isBlog={false}
               title="Portfolio Website"
               description="A personal portfolio website built with React.js to showcase projects, skills, and experiences. Features include a clean responsive design, project gallery, about me section, and smooth navigation to highlight professional achievements and technical expertise."
-              ghLink="https://github.com/soumyajit4419/Plant_AI"
-              demoLink="https://plant49-ai.herokuapp.com/"
+              ghLink="https://yogeshpatgar44.github.io/Deployment/"
+              demoLink="https://yogeshpatgar44.github.io/Deployment/"
             />
           </Col>
 
@@ -77,7 +77,7 @@ function Projects() {
               title="Project Management System"
               description="A collaborative platform for teams to manage projects efficiently, built with React.js, Material-UI, Node.js, Express, and MongoDB. Includes features such as task assignment, progress tracking, team collaboration, and real-time updates to streamline workflow and boost productivity.."
               ghLink="https://github.com/RDL-Pvt-Ltd/RDL_PMS/tree/main"
-              demoLink="https://chatify-49.web.app/"
+              demoLink="https://yogeshpatgar44.github.io/Deployment/"
             />
           </Col>
 
@@ -88,7 +88,7 @@ function Projects() {
               title="Visitor Management System"
               description="A smart system to manage and track visitors in real-time, built with React.js, Material-UI, Node.js, Express, and MongoDB. Features include visitor registration, check-in/check-out logging, admin dashboard, and secure data storage to ensure smooth and organized visitor handling."
               ghLink="https://github.com/RDL-FULLSTACK/VMS"
-              demoLink="https://blogs.soumya-jit.tech/"
+              demoLink="https://yogeshpatgar44.github.io/Deployment/"
             />
           </Col>
 
