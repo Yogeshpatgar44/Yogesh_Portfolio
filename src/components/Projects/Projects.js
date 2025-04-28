@@ -7,7 +7,7 @@ import VMS from "../../Assets/Projects/VMS.jpg"
 import Banking from "../../Assets/Projects/Banking.jpg"
 import Plant_AI from "../../Assets/Projects/plant_ai.jpg"
 import Telimedi_connect from "../../Assets/Projects/Telimedi_connect.png"
-import Portfolio from "../../Assets/Projects/Portfolio.png"
+// import Portfolio from "../../Assets/Projects/Portfolio.png"
 
 
 
@@ -58,7 +58,7 @@ function Projects() {
           </Col>
 
           
-          <Col md={4} className="project-card">
+          {/* <Col md={4} className="project-card">
             <ProjectCard
               imgPath={Portfolio}
               isBlog={false}
@@ -67,7 +67,7 @@ function Projects() {
               ghLink="https://yogeshpatgar44.github.io/Deployment/"
               demoLink="https://yogeshpatgar44.github.io/Deployment/"
             />
-          </Col>
+          </Col> */}
 
 
           <Col md={4} className="project-card">
