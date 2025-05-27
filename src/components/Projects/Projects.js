@@ -30,8 +30,8 @@ function Projects() {
               isBlog={false}
               title="Telimedi-Connect"
               description="A healthcare platform for booking regular or emergency doctor appointments, built with React.js, Material-UI, Node.js, Express, and MongoDB. Offers features like patient registration, appointment scheduling, doctor listings, and secure health data management to enhance modern healthcare delivery."
-              ghLink="https://yogeshpatgar44.github.io/Deployment/"
-              demoLink="https://yogeshpatgar44.github.io/Deployment/"              
+              ghLink="https://github.com/Yogeshpatgar44/Doctor-Appointment-System"
+              demoLink="https://doctoroncall-bd.netlify.app/"              
             />
           </Col>
 
@@ -41,7 +41,7 @@ function Projects() {
               isBlog={false}
               title="Plant AI"
               description="A plant disease detection system built with Python, TensorFlow, and image processing libraries. Utilizes AI to identify plant diseases, helping farmers improve crop yield and reduce pesticide use by accurately diagnosing plant health from images."
-              ghLink="https://yogeshpatgar44.github.io/Deployment/"
+              ghLink="https://github.com/Yogeshpatgar44/Plant-AI"
               demoLink="https://yogeshpatgar44.github.io/Deployment/"
             />
           </Col>
@@ -52,7 +52,7 @@ function Projects() {
               isBlog={false}
               title="Net-Banking Management System"
               description="Secure and user-friendly digital banking solution built with HTML, CSS, PHP, and MySQL. Provides core banking features such as account management, fund transfers, and transaction history, offering users a seamless and efficient online banking experience."
-              ghLink="https://yogeshpatgar44.github.io/Deployment/"
+              ghLink="https://github.com/Yogeshpatgar44/Net-Banking-Management-System"
               demoLink="https://yogeshpatgar44.github.io/Deployment/"              
             />
           </Col>
@@ -64,7 +64,7 @@ function Projects() {
               isBlog={false}
               title="Portfolio Website"
               description="A personal portfolio website built with React.js to showcase projects, skills, and experiences. Features include a clean responsive design, project gallery, about me section, and smooth navigation to highlight professional achievements and technical expertise."
-              ghLink="https://yogeshpatgar44.github.io/Deployment/"
+              ghLink="https://github.com/Yogeshpatgar44/Yogesh_Portfolio"
               demoLink="https://yogeshpatgar44.github.io/Deployment/"
             />
           </Col>
