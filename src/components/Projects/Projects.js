@@ -31,7 +31,7 @@ function Projects() {
               title="Telimedi-Connect"
               description="A healthcare platform for booking regular or emergency doctor appointments, built with React.js, Material-UI, Node.js, Express, and MongoDB. Offers features like patient registration, appointment scheduling, doctor listings, and secure health data management to enhance modern healthcare delivery."
               ghLink="https://github.com/Yogeshpatgar44/Doctor-Appointment-System"
-              demoLink="https://doctoroncall-bd.netlify.app/"              
+              demoLink="https://yogeshpatgar44.github.io/Deployment/"              
             />
           </Col>
 
